@@ -2,7 +2,7 @@
   "name": "yanka",
   "version": "1.0.0",
   "description": "",
-  "main": "jall.js",
+  "main": "jalli.js",
   "dependencies": {
     "node-telegram-bot-api": "^0.30.0"
   },
